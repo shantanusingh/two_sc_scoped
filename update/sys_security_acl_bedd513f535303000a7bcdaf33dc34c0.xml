@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on sn_two_sc_scoped_gcp_credentials</description>
+        <express_security>false</express_security>
+        <name>sn_two_sc_scoped_gcp_credentials</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-03 14:05:10</sys_created_on>
+        <sys_id>bedd513f535303000a7bcdaf33dc34c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_two_sc_scoped_gcp_credentials</sys_name>
+        <sys_package display_value="two_sc_scoped" source="sn_two_sc_scoped">ef77957b535303000a7bcdaf33dc34d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="two_sc_scoped">ef77957b535303000a7bcdaf33dc34d0</sys_scope>
+        <sys_update_name>sys_security_acl_bedd513f535303000a7bcdaf33dc34c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-03 14:05:10</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
